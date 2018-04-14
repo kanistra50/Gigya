@@ -9,8 +9,7 @@ accounts.getPolicies
 ​http://developers.gigya.com/display/GD/accounts.getPolicies+REST 
 
 Provide a UI that instruments the "accountOptions" parameter 
-!! Предоставьте пользовательский интерфейс, 
-который устанавливает параметр «accountOptions»
+!! Предоставьте пользовательский интерфейс, который устанавливает параметр «accountOptions»
 
 ******************
 Develop an Angular SPA that edits/views the "​accountOptions​" parameter of accounts.get/setPolicies APIs:
